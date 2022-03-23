@@ -1,0 +1,33 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Vivaldi Profiles",
+  "description": "Ulauncher extension for launching Vivaldi using a chosen user profile.",
+  "developer_name": "Yuki Yamazaki",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "keyword",
+      "type": "keyword",
+      "name": "Vivaldi Profile",
+      "description": "Luanch vivaldi browser with chosen user profile",
+      "default_value": "vp"
+    },
+    {
+      "id": "vivaldi_dir",
+      "type": "input",
+      "name": "Vivaldi Configuration Directory",
+      "description": "Select the vivaldi configuration directory, which contains all profiles.",
+      "default_value": "~/.config/vivaldi"
+    },
+    {
+      "id": "vivaldi_path",
+      "type": "input",
+      "name": "Vivaldi Executable",
+      "description": "Insert the executable name for Vivaldi. Usually vivaldi-stable.",
+      "default_value": "vivaldi-stable"
+    }
+  ]
+}
