@@ -20,6 +20,10 @@ https://github.com/kamiazya/ulauncher-vivaldi-profiles
 - [Python 3.5+](https://www.python.org)
 - [Vivaldi](https://vivaldi.com)
 
+## Contributing
+
+See [CONTRIBUTING.md](.CONTRIBUTING.md)
+
 ## License
 
 This software is released under the MIT License, see [LICENSE](./LICENSE).
