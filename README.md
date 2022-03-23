@@ -22,7 +22,7 @@ https://github.com/kamiazya/ulauncher-vivaldi-profiles
 
 ## Contributing
 
-See [CONTRIBUTING.md](.CONTRIBUTING.md)
+See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## License
 
